@@ -3,7 +3,7 @@
 	"tools" : {
 		"20sim" : {
 			"name" : "20-sim",
-			"version" : "4.6.5-intocps (2017-09-29)",
+			"version" : "4.6.5-intocps (2018-12-12)",
 			"description" : "Modeling and simulation tool",
 			"platforms" : {
 				"windows32" : {
@@ -22,19 +22,19 @@
 		},
 		"20sim4c" : {
 			"name" : "20-sim 4C",
-			"version" : "2.2.1000 (2017-09-30)",
+			"version" : "2.2.1000.4368 (2018-02-05)",
 			"description" : "Tool for rapid prototyping for control engineers",
 			"platforms" : {
 				"windows32" : {
-					"url" : "https:\/\/www.dropbox.com\/s\/ysu5q9shbnixf8q\/20-sim-4C-2.2.1000.4222-win32.exe?dl=1",
-					"filename" : "20sim4C.exe",
-					"md5sum" : "70c83f3b6c2ebbb32f1a96dd0a40bf30",
+					"url" : "http:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
+					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
 					"action" : "launch"
 				},
 				"windows64" : {
-					"url" : "https:\/\/www.dropbox.com\/s\/ysu5q9shbnixf8q\/20-sim-4C-2.2.1000.4222-win32.exe?dl=1",
-					"filename" : "20sim4C.exe",
-					"md5sum" : "70c83f3b6c2ebbb32f1a96dd0a40bf30",
+					"url" : "http:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
+					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
 					"action" : "launch"
 				}
 			}
