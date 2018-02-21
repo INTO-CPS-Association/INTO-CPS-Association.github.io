@@ -1,5 +1,5 @@
 {
-	"version" : "0.0.20",
+	"version" : "0.0.21",
 	"tools" : {
 		"20sim" : {
 			"name" : "20-sim",
@@ -187,9 +187,9 @@
 			"releasepage" : "https://into-cps-association.github.io/maestro/",
 			"platforms" : {
 				"any" : {					
-					"url" : "http://overture.au.dk/artifactory/into-cps/org/intocps/orchestration/coe/0.2.22/coe-0.2.22-jar-with-dependencies.jar",
+					"url" : "https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=org.into-cps.orchestration&a=coe&v=1.0.0&e=jar&c=jar-with-dependencies",
 					"filename" : "coe.jar",
-					"md5sum" : "8df109832efdfcf677b6baeaea4c128a",
+					"md5sum" : "d21efd7c8990d2f0f7d839c8fc70ba32",
 					"action" : "none"
 				}
 			}
