@@ -7,10 +7,16 @@ title: Report an issue
 
 Please find the tool specific link below and repot the issue:
 
-### INTO-CPS App and COE
+### Maestro (Co-Simulation Orchestration Engine)
 
-- [Show issue tracker](https://github.com/into-cps/intocps-ui/issues)
-- [Submit new Issue](https://github.com/into-cps/intocps-ui/issues/new)
+- [Show issue tracker](https://github.com/INTO-CPS-Association/maestro/issues)
+- [Submit new Issue](https://github.com/INTO-CPS-Association/maestro/issues/new)
+
+
+### INTO-CPS Application
+
+- [Show issue tracker](https://github.com/INTO-CPS-Association/into-cps-application/issues)
+- [Submit new Issue](https://github.com/INTO-CPS-Association/into-cps-application/issues/new)
 
 ### Overture Tool
 
