@@ -13,7 +13,7 @@ title: Overview
 
 # Overview
 
-The Integrated Tool Chain for Model-based Design of Cyber-Physical Systems (INTO-CPS) is an integrated “tool chain” for comprehensive Model-Based Design (MBD) of Cyber-Physical Systems (CPSs). The tool chain supports multidisciplinary, collaborative modelling of CPSs from requirements, through design, down to realisation in hardware and software. This enables traceability at all stages of the development. Read more at: [into-cps.au.dk](http://into-cps.au.dk/).
+The Integrated Tool Chain for Model-based Design of Cyber-Physical Systems (INTO-CPS) is an integrated “tool chain” for comprehensive Model-Based Design (MBD) of Cyber-Physical Systems (CPSs). The tool chain supports multidisciplinary, collaborative modelling of CPSs from requirements, through design, down to realisation in hardware and software. This enables traceability at all stages of the development. Read more at: [into-cps.org](http://into-cps.org/).
 
 ![Tool preview]({{ site.url }}/images/tool-preview.png)
 
