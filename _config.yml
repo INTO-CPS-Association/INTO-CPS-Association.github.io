@@ -6,6 +6,7 @@ syntax_highlighter: rouge
 
 encoding: utf-8
 url: https://into-cps.github.io
+org-url: https://into-cps-association.github.io
 
 collections:
   netmeetings:
