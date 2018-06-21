@@ -21,7 +21,7 @@ release below.
 <br>
 
 You can also download the User Manual for the INTO-CPS tool chain
-[here](https://github.com/into-cps/into-cps.github.io/raw/master/manuals/INTO-CPS_User_Manual.pdf).
+[here](https://github.com/into-cps-association/into-cps-association.github.io/raw/master/manuals/INTO-CPS_User_Manual.pdf).
 
 ## Release History
 
@@ -32,7 +32,7 @@ You can also download the User Manual for the INTO-CPS tool chain
 If you prefer, you can download the INTO-CPS tools 
 individually, through the following links.
 
-* COE  - [Windows / Mac / Linux](http://overture.au.dk/artifactory/into-cps/org/intocps/orchestration/coe/)
+* Maestro (COE)  - [Windows / Mac / Linux](https://github.com/INTO-CPS-Association/maestro/releases)
 * 20-sim - [Windows](http://www.20sim.com/download/20sim.html)
 * 20-sim 4C - [Windows](http://www.20sim4c.com/downloads/20sim4c.html)
 * Open Modelica - [Windows](https://openmodelica.org/download/download-windows) / [Mac](https://openmodelica.org/download/download-mac) / [Linux](https://openmodelica.org/download/download-linux)
