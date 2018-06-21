@@ -2,31 +2,31 @@
   "examples": [
     {
       "name": "Case Study: Single Tank",
-      "git": "https:\/\/github.com\/into-cps\/case-study_single_watertank.git"
+      "git": "https://github.com/INTO-CPS-Association/example-single_watertank.git"
     },
     {
       "name": "Case Study: Three Tank",
-      "git": "https:\/\/github.com\/into-cps\/case-study_three_tank.git"
+      "git": "https://github.com/INTO-CPS-Association/example-three_tank_watertank.git"
     },
     {
       "name": "Case Study: UAV Swarm",
-      "git": "https:\/\/github.com\/into-cps\/case-study_uav_swarm.git"
+      "git": "https://github.com/INTO-CPS-Association/example-uav_swarm.git"
     },
     {
       "name": "Case Study: FCU",
-      "git": "https:\/\/github.com\/into-cps\/case-study_fcu.git"
+      "git": "https://github.com/INTO-CPS-Association/example-fcu.git"
     },
     {
       "name": "Case Study: Line Follower Robot",
-      "git": "https:\/\/github.com\/into-cps\/case-study_line_follower_robot.git"
+      "git": "https://github.com/INTO-CPS-Association/example-line_follower_robot.git"
     },
     {
       "name": "Case Study: Ether",
-      "git": "https:\/\/github.com\/into-cps\/case-study_ether"
+      "git": "https://github.com/INTO-CPS-Association/example-ether.git"
     },
     {
        "name": "Case Study: UAV",
-       "git": "https:\/\/github.com\/into-cps\/case-study_UAV.git"
+       "git": "https://github.com/INTO-CPS-Association/example-single_uav.git"
     },
     {
       "name": "Example: Turn Indication",
@@ -34,7 +34,7 @@
     },
     {
       "name": "Example: Mass Springer Damper",
-      "git": "https://github.com/into-cps/case-study_mass-springer-damper.git"
+      "git": "https://github.com/INTO-CPS-Association/example-mass_spring_damper.git"
     }
   ]
 }
