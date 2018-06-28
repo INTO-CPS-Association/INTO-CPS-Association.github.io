@@ -60,7 +60,7 @@
 		},
 		"modelio" : {
 			"name" : "Modelio",
-			"version" : "3.4.1",
+			"version" : "3.7.1",
 			"description" : "UML\/BPMN modelling tool",
 			"platforms" : {
 				"linux32" : {
@@ -95,16 +95,15 @@
 				}
 			}
 		},
-		"modelio-intocps" : {
-			
+		"modelio-intocps" : {			
 			"name" : "Modelio INTO-CPS extension",
-			"version" : "1.4.01",
+			"version" : "1.4.02",
 			"description" : "Modelio extension for INTO-CPS profile",
 			"platforms" : {
 				"any" : {
-					"url" : "https:\/\/github.com\/INTO-CPS-Association\/sysml-profile\/releases\/download\/1.4.01\/INTOCPS_1.4.01.jmdac",
-					"filename" : "INTOCPS_1.4.01.jmdac",
-					"md5sum" : "cdf1128477b839f9d1fe50484d446e62",
+					"url" : "https:\/\/github.com\/INTO-CPS-Association\/sysml-profile\/releases\/download\/1.4.02\/INTOCPS_1.4.02.jmdac",
+					"filename" : "INTOCPS_1.4.02.jmdac",
+					"md5sum" : "3c29f8e17cf55885ef25ab9a95405f02",
 					"action" : "show"
 				}
 			}
