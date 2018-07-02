@@ -25,10 +25,6 @@
       "git": "https://github.com/INTO-CPS-Association/example-ether.git"
     },
     {
-       "name": "Case Study: UAV",
-       "git": "https://github.com/INTO-CPS-Association/example-single_uav.git"
-    },
-    {
       "name": "Example: Turn Indication",
       "git": "https://github.com/INTO-CPS-Association/example-turn_indication.git"
     },
