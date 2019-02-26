@@ -1,5 +1,5 @@
 {
-	"version" : "0.0.26",
+	"version" : "0.0.25",
 	"tools" : {
 		"20sim" : {
 			"name" : "20-sim",
@@ -182,13 +182,13 @@
 		"coe" : {
 			"name" : "Co-simulation Orchestration Engine",
 			"description" : "Co-simulation Orchestration Engine",
-			"version" : "1.0.2",
+			"version" : "1.0.3-SNAPSHOT",
 			"releasepage" : "https://into-cps-association.github.io/maestro/",
 			"platforms" : {
 				"any" : {					
-					"url" : "https://oss.sonatype.org/service/local/artifact/maven/redirect?r=releases&g=org.into-cps.orchestration&a=coe&v=1.0.2&e=jar&c=jar-with-dependencies",
+					"url" : "http://overture.au.dk:8081/artifactory/into-cps/org/into-cps/orchestration/coe/1.0.3-SNAPSHOT/coe-1.0.3-20181121.132128-3-jar-with-dependencies.jar",
 					"filename" : "coe.jar",
-					"md5sum" : "0ba3fba1ce3169663a3bc921f3152503",
+					"md5sum" : "fd986c18a561e9e12f051d2af55eb88a",
 					"action" : "none"
 				}
 			}
