@@ -1,6 +1,44 @@
 {
 	"version" : "1.0.2",
 	"tools" : {
+		"Pvsio-Web" :{
+			"name" : "Pvsio-Web",
+			"version" : "2.0",
+			"description" : "A formal methods toolkit for model-based development of human-machine interfaces",
+			"platforms" : {
+				"linux64" : {
+					"url" : "https://github.com/mapalmieri/pvsio-web/archive/master.zip",
+					"filename" : "pvsio-web-master.zip",
+					"md5sum" : "9dcf5f8e00f0467be3cabd0a1d816736",
+					"action" : "unpack"
+				},
+				"linux32" : {
+					"url" : "https://github.com/mapalmieri/pvsio-web/archive/master.zip",
+					"filename" : "pvsio-web-master.zip",
+					"md5sum" : "9dcf5f8e00f0467be3cabd0a1d816736",
+					"action" : "unpack"
+				}
+			}
+		},
+		"PVS" :{
+			"name" : "PVS",
+			"version" : "6.0",
+			"description" : "A specification language integrated with support tools and a theorem prover",
+			"platforms" : {
+				"linux64" : {
+					"url" : "http://pvs.csl.sri.com/download-open/pvs-6.0-ix86_64-Linux-sbclisp.tgz",
+					"filename" : "pvs-6.0-ix86_64-Linux-sbclisp.tgz",
+					"md5sum" : "d6c7945ab3e6d6adcdfc7824257c0023",
+					"action" : "unpack"
+				},
+				"linux32" : {
+					"url" : "http://pvs.csl.sri.com/download-open/pvs-6.0-ix86-Linux-sbclisp.tgz",
+					"filename" : "pvs-6.0-ix86-Linux-sbclisp.tgz",
+					"md5sum" : "d9b1945ccb87e6c5a8a51073d6dc3c46",
+					"action" : "unpack"
+				}
+			}
+		},
 		"20sim" : {
 			"name" : "20-sim",
 			"version" : "4.6.5-intocps (2018-12-12)",
