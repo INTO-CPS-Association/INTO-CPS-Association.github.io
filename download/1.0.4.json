@@ -9,13 +9,13 @@
 				"linux64" : {
 					"url" : "https://github.com/mapalmieri/pvsio-web/archive/master.zip",
 					"filename" : "pvsio-web-master.zip",
-					"md5sum" : "9dcf5f8e00f0467be3cabd0a1d816736",
+					"md5sum" : "060ded9ee52be7e0bdb866e1651daee0",
 					"action" : "unpack"
 				},
 				"linux32" : {
 					"url" : "https://github.com/mapalmieri/pvsio-web/archive/master.zip",
 					"filename" : "pvsio-web-master.zip",
-					"md5sum" : "9dcf5f8e00f0467be3cabd0a1d816736",
+					"md5sum" : "060ded9ee52be7e0bdb866e1651daee0",
 					"action" : "unpack"
 				}
 			}
