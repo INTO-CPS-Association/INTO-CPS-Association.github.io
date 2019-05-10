@@ -224,9 +224,9 @@
 			"releasepage" : "https://into-cps-association.github.io/maestro/",
 			"platforms" : {
 				"any" : {					
-					"url" : "http://overture.au.dk:8081/artifactory/into-cps/org/into-cps/orchestration/coe/1.0.3-SNAPSHOT/coe-1.0.3-20181121.132128-3-jar-with-dependencies.jar",
+					"url" : "http://overture.au.dk/artifactory/simple/into-cps/org/into-cps/orchestration/coe/1.0.3-SNAPSHOT/coe-1.0.3-20181220.095440-5-jar-with-dependencies.jar",
 					"filename" : "coe.jar",
-					"md5sum" : "fd986c18a561e9e12f051d2af55eb88a",
+					"md5sum" : "317538fba4cfb732d8c7567e0d08c9c4",
 					"action" : "none"
 				}
 			}
