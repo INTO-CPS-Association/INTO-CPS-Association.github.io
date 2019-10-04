@@ -1,5 +1,5 @@
 {
-	"version" : "1.0.3",
+	"version" : "1.0.4",
 	"tools" : {
 		"20sim" : {
 			"name" : "20-sim",
@@ -183,7 +183,7 @@
 			"name" : "Co-simulation Orchestration Engine",
 			"description" : "Co-simulation Orchestration Engine",
 			"version" : "1.0.4",
-			"releasepage" : "https://into-cps-association.github.io/maestro/",
+			"releasepage" : "https://into-cps-association.github.io/maestrgo/",
 			"platforms" : {
 				"any" : {					
 					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F1.0.4/coe-1.0.4-jar-with-dependencies.jar",
