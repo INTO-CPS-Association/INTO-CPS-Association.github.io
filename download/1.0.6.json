@@ -186,7 +186,7 @@
 			"releasepage" : "https://github.com/INTO-CPS-Association/maestro/releases/tag/Release%2F1.0.10",
 			"platforms" : {
 				"any" : {
-					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F1.0.4/coe-1.0.4-jar-with-dependencies.jar",
+					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F1.0.10/coe-1.0.10-jar-with-dependencies.jar",
 					"filename" : "coe.jar",
 					"md5sum" : "e7b6afefd231419ef91068a3a2019aca",
 					"action" : "none"
