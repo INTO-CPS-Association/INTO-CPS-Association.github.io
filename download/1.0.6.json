@@ -3,19 +3,19 @@
 	"tools" : {
 		"20sim" : {
 			"name" : "20-sim",
-			"version" : "4.8.1",
+			"version" : "4.8.2",
 			"description" : "Modeling and simulation tool",
 			"platforms" : {
 				"windows32" : {
-					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.1.exe",
-					"filename" : "20sim-4.8.1.exe",
-					"md5sum" : "b5c6b910329b255b89e43294cfea300e",
+					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.2.exe",
+					"filename" : "20sim-4.8.2.exe",
+					"md5sum" : "d4f566f3da3c7c9c389b5518e163dbba",
 					"action" : "launch"
 				},
 				"windows64" : {
-					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.1.exe",
-					"filename" : "20sim-4.8.1.exe",
-					"md5sum" : "b5c6b910329b255b89e43294cfea300e",
+					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.2.exe",
+					"filename" : "20sim-4.8.2.exe",
+					"md5sum" : "d4f566f3da3c7c9c389b5518e163dbba",
 					"action" : "launch"
 				}
 			}
