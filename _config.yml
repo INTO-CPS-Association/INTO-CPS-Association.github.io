@@ -1,24 +1,24 @@
-#markdown: kramdown
-#kramdown:
-#  input: GFM
-#  hard_wrap: false
-#syntax_highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+syntax_highlighter: rouge
 
-#encoding: utf-8
-#old-url: https://into-cps.github.io
-#url: https://into-cps-association.github.io
+encoding: utf-8
+old-url: https://into-cps.github.io
+url: https://into-cps-association.github.io
 
-#collections:
-#  netmeetings:
-#    output: true
-#  workshops:
-#    output: true
+collections:
+  netmeetings:
+    output: true
+  workshops:
+    output: true
 
-#defaults:
-#  -
-#    scope:
-#      path: ""
-#    values:
-#      layout: "default"
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
       
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
