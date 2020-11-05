@@ -196,13 +196,13 @@
 		"maestro2" : {
 			"name" : "Maestro2 - Co-simulation Orchestration Engine",
 			"description" : "FMI-based Co-simulation Orchestration Engine",
-			"version" : "2.0.1",
-			"releasepage" : "https://github.com/INTO-CPS-Association/maestro/releases/tag/Release%2F2.0.1",
+			"version" : "2.0.2",
+			"releasepage" : "https://github.com/INTO-CPS-Association/maestro/releases/tag/Release%2F2.0.2",
 			"platforms" : {
 				"any" : {
-					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F2.0.1/maestro-webapi-2.0.1.jar",
+					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F2.0.2/maestro-webapi-2.0.2.jar",
 					"filename" : "coe.jar",
-					"md5sum" : "d133b3cb7a56f92c62c09271e8dcf9f2",
+					"md5sum" : "3a7222c5d6a28afac9f6281abe4de05b",
 					"action" : "none"
 				}
 			}
