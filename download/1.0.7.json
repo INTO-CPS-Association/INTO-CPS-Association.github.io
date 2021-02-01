@@ -264,7 +264,7 @@
 				"any" : {
 					"url" : "https://github.com/INTO-CPS-Association/dse_scripts/raw/master/releases/dse0.4.1.zip",
 					"filename" : "dse0.4.1.zip",
-					"md5sum" : "3cf758cbc02a6602068f2dc685ccc227",
+					"md5sum" : "03802b36746a4ef7634dc65545fc3182",
 					"action" : "unpack"
 				}
 			}
