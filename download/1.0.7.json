@@ -26,13 +26,13 @@
 			"description" : "Tool for rapid prototyping for control engineers",
 			"platforms" : {
 				"windows32" : {
-					"url" : "http:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"url" : "https:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
 					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
 					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
 					"action" : "launch"
 				},
 				"windows64" : {
-					"url" : "http:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"url" : "https:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
 					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
 					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
 					"action" : "launch"
