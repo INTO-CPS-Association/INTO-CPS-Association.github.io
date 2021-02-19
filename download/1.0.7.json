@@ -1,0 +1,292 @@
+{
+	"version" : "1.0.7",
+	"tools" : {
+		"20sim" : {
+			"name" : "20-sim",
+			"version" : "4.8.2",
+			"description" : "Modeling and simulation tool",
+			"platforms" : {
+				"windows32" : {
+					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.2.exe",
+					"filename" : "20sim-4.8.2.exe",
+					"md5sum" : "d4f566f3da3c7c9c389b5518e163dbba",
+					"action" : "launch"
+				},
+				"windows64" : {
+					"url" : "http:\/\/www.20sim.com\/downloads\/files\/20-sim-4.8.2.exe",
+					"filename" : "20sim-4.8.2.exe",
+					"md5sum" : "d4f566f3da3c7c9c389b5518e163dbba",
+					"action" : "launch"
+				}
+			}
+		},
+		"20sim4c" : {
+			"name" : "20-sim 4C",
+			"version" : "2.2.1000.4368 (2018-02-05)",
+			"description" : "Tool for rapid prototyping for control engineers",
+			"platforms" : {
+				"windows32" : {
+					"url" : "https:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
+					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
+					"action" : "launch"
+				},
+				"windows64" : {
+					"url" : "https:\/\/www.20sim4c.com\/downloads\/prereleases\/into-cps\/20-sim-4C-2.2.1000.4368-win32.exe",
+					"filename" : "20-sim-4C-2.2.1000.4368-win32.exe",
+					"md5sum" : "d4702ddcf59cf690fd1d954127a2b2cf",
+					"action" : "launch"
+				}
+			}
+		},
+		"open-modelica" : {
+			"name" : "Open Modelica",
+			"version" : "OpenModelica-v1.12.0-dev-431-g050739d",
+			"description" : "A Modelica-based modelling and simulation tool",
+			"platforms" : {
+				"windows32" : {
+					"url" : "https:\/\/build.openmodelica.org\/omc\/builds\/windows\/nightly-builds\/intocps\/OpenModelica-v1.12.0-dev-431-g050739d-32bit.exe",
+					"filename" : "OpenModelica-v1.12.0-dev-431-g050739d-32bit.exe",
+					"md5sum" : "8b17adfab2069f3ba0fd9c37b3bf7d8f",
+					"action" : "launch"
+				},
+				"windows64" : {
+					"url" : "https:\/\/build.openmodelica.org\/omc\/builds\/windows\/nightly-builds\/intocps\/OpenModelica-v1.12.0-dev-431-g050739d-64bit.exe",
+					"filename" : "OpenModelica-v1.12.0-dev-431-g050739d-64bit.exe",
+					"md5sum" : "6906617413dda7a97b816dbebe2b8487",
+					"action" : "launch"
+				}
+			}
+		},
+		"modelio" : {
+			"name" : "Modelio",
+			"version" : "4.1.O",
+			"description" : "UML\/BPMN modelling tool",
+			"platforms" : {
+				"linux64" : {
+					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.Linux.tar.gz",
+					"filename" : "Modelio-Open-Source_4-1-0.tar.gz",
+					"md5sum" : "3c589b1c6ed354f0ea016a10c82c53a6",
+					"action" : "unpack"
+				},
+				"windows64" : {
+					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.Windows.exe",
+					"filename" : "Modelio.Open.Source.4.1.0.-.64.exe",
+					"md5sum" : "d41d8cd98f00b204e9800998ecf8427e",
+					"action" : "launch"
+				},
+				"osx64" : {
+					"url" : "https://github.com/etiennebrosse/SofteamRD/releases/download/3.8.00/modelio-open-source-3.8.0-macosx.cocoa.x86_64.tar.gz",
+					"filename" : "modelio-open-source-3.8.0-macosx.cocoa.x86_64.tar.gz",
+					"md5sum" : "9a08ba26f2f930b72050ec72deff0378",
+					"action" : "unpack"
+				}
+			}
+		},
+		"modelio-intocps" : {
+			"name" : "Modelio INTO-CPS extension",
+			"version" : "1.6.00",
+			"description" : "Modelio extension for INTO-CPS profile",
+			"platforms" : {
+				"any" : {
+					"url" : "http://forge.modelio.org/attachments/download/23862/INTOCPS_1.6.00.jmdac",
+					"filename" : "INTOCPS_1.6.00.jmdac",
+					"md5sum" : "7c80711a5d3f0ec8ee787eb3444bd7f2",
+					"action" : "show"
+				}
+			}
+		},
+		"rttester-dependencies" : {
+			"name" : "VSI tools dependencies bundle",
+			"version" : "3.0.0",
+                        "releasepage" : "https://secure.verified.de/f5x1hks4/into-cps/one-click/info/#rttester-dependencies",
+			"description" : "VSI tools dependencies for Windows: Python 2.7 (+ packages) and GCC 4.9",
+			"platforms" : {
+				"windows64" : {
+					"url" : "https:\/\/secure.verified.de\/f5x1hks4\/into-cps\/one-click\/install_Python27_gcc49_v3.exe",
+					"filename" : "install_Python27_gcc49_v3.exe",
+					"md5sum" : "7c79a4d1c9a927dc3b35dd1d60ac1bc4",
+					"action" : "launch"
+				}
+			}
+		},
+		"rttester" : {
+			"name" : "VSI tools",
+			"version" : "0.1.1",
+                        "releasepage" : "https://secure.verified.de/f5x1hks4/into-cps/one-click/info/",
+			"description" : "VSI Test Tool Chain: RTT 6.0-6.1.16 + MBT 9.0-1.5.16 + RTTUI 3.9.3-1 + Utils v18 + Examples",
+			"platforms" : {
+				"windows64" : {
+					"url" : "https:\/\/secure.verified.de\/f5x1hks4\/into-cps\/one-click\/VSI_bundle_v0_1_1.exe",
+					"filename" : "VSI_bundle_v0_1_1.exe",
+					"md5sum" : "1aabd148911003760fc7d9f0ef4a9669",
+					"action" : "launch"
+				},
+				"linux64" : {
+					"url" : "https:\/\/secure.verified.de\/f5x1hks4\/into-cps\/one-click\/VSI_bundle_v0_1_1.sh",
+					"filename" : "VSI_bundle_v0_1_1.sh",
+					"md5sum" : "33539b8d65fcdbf7014cb0f4f7e6877d",
+					"action" : "launch"
+				}
+			}
+		},
+		"overture" : {
+			"name" : "Overture",
+			"version" : "3.0.2",
+			"description" : "A tool for modelling control systems using The Vienna Development Method (VDM)",
+			"platforms" : {
+				"linux64" : {
+					"url" : "https://github.com/overturetool/overture/releases/download/Release/3.0.2/Overture-3.0.2-linux.gtk.x86_64.zip",
+					"filename" : "Overture-3.0.2-linux.gtk.x86_64.zip",
+					"md5sum" : "2bd269f56e9e4cff4619ba9185335458",
+					"action" : "unpack"
+				},
+				"windows64" : {
+					"url" : "https://github.com/overturetool/overture/releases/download/Release/3.0.2/Overture-3.0.2-win32.win32.x86_64.zip",
+					"filename" : "Overture-3.0.2-win32.win32.x86_64.zip",
+					"md5sum" : "31ab9d8c271f3841793f4e0e71a332bf",
+					"action" : "unpack"
+				},
+				"osx64" : {
+					"url" : "https://github.com/overturetool/overture/releases/download/Release/3.0.2/Overture-3.0.2-macosx.cocoa.x86_64.zip",
+					"filename" : "Overture-3.0.2-macosx.cocoa.x86_64.zip",
+					"md5sum" : "a14b2b25981472902c82b2c70db60566",
+					"action" : "unpack"
+				}
+			}
+		},
+		"coe" : {
+			"name" : "Co-simulation Orchestration Engine",
+			"description" : "Co-simulation Orchestration Engine",
+			"version" : "1.0.10",
+			"releasepage" : "https://github.com/INTO-CPS-Association/maestro/releases/tag/Release%2F1.0.10",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F1.0.10/coe-1.0.10-jar-with-dependencies.jar",
+					"filename" : "coe.jar",
+					"md5sum" : "e7b6afefd231419ef91068a3a2019aca",
+					"action" : "none"
+				}
+			}
+		},
+		"maestro2" : {
+			"name" : "Maestro2 - Co-simulation Orchestration Engine",
+			"description" : "FMI-based Co-simulation Orchestration Engine",
+			"version" : "2.0.2",
+			"releasepage" : "https://github.com/INTO-CPS-Association/maestro/releases/tag/Release%2F2.0.2",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/INTO-CPS-Association/maestro/releases/download/Release%2F2.0.2/maestro-webapi-2.0.2.jar",
+					"filename" : "coe.jar",
+					"md5sum" : "3a7222c5d6a28afac9f6281abe4de05b",
+					"action" : "none"
+				}
+			}
+		},
+
+
+			"coe-dirstibution-plugin" : {
+			"name" : "Distributed FMU",
+			"description" : "Distribution Plug-in for the Co-simulation Orchestration Engine. Enabling co-simulation across platforms and architectures.",
+			"version" : "0.0.6",
+			"releasepage" : "",
+			"platforms" : {
+				"any" : {
+					"url" : "http://overture.au.dk/artifactory/into-cps-distribution/org/intocps/orchestration/distribution/bundle/0.0.6/bundle-0.0.6-bundle.zip",
+					"filename" : "distributed-fmu-bundle.zip",
+					"md5sum" : "ee2e8b5b7819f1471188a9884fcc072b",
+					"action" : "show"
+				}
+			}
+		},
+
+		"overture-tracability-driver" : {
+			"name" : "Overture Tracability Driver",
+			"description" : "INTO-CPS Tracability Driver for Overture",
+			"version" : "0.1.8",
+			"releasepage" : "https://github.com/overturetool/intocps-tracability-driver/releases/tag/Release%2F0.1.8",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/overturetool/intocps-tracability-driver/releases/download/Release%2F0.1.8/tracebility-driver-0.1.8-jar-with-dependencies.jar",
+					"filename" : "overture-tracability-driver.jar",
+					"md5sum" : "66f15a90e7867fca46f36a7f460df163",
+					"action" : "show"
+					}
+			}
+		},
+
+
+		"overture-fmu" : {
+			"name" : "Overture FMU Import / Exporter",
+			"description" : "Overture FMI Support",
+			"version" : "0.2.20",
+			"releasepage" : "https://github.com/overturetool/overture-fmu/releases/tag/Release%2F0.2.20",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/overturetool/overture-fmu/releases/download/Release%2F0.2.20/p2.zip",
+					"filename" : "overture-fmu.p2.zip",
+					"md5sum" : "51c2bf4af2771bc8047822eb5d794351",
+					"action" : "show"
+					}
+			}
+		},
+		"overture-fmu-cli" : {
+			"name" : "Overture FMU Import / Exporter CLI",
+			"description" : "Overture FMI Support",
+			"version" : "0.2.20",
+			"releasepage" : "https://github.com/overturetool/overture-fmu/releases/tag/Release%2F0.2.20",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/overturetool/overture-fmu/releases/download/Release%2F0.2.20/fmu-import-export.jar",
+					"filename" : "overture-fmu-cli.jar",
+					"md5sum" : "10a46122c4eaf963af2cf2d88d1f2aa9",
+					"action" : "show"
+					}
+			}
+		},
+		"dse" : {
+			"name" : "Design Space Exploration",
+			"description" : "Scripts for generating and analysing multiple co-simulations",
+			"version" : "0.4.1",
+			"platforms" : {
+				"any" : {
+					"url" : "https://github.com/INTO-CPS-Association/dse_scripts/raw/master/releases/dse0.4.1.zip",
+					"filename" : "dse0.4.1.zip",
+					"md5sum" : "03802b36746a4ef7634dc65545fc3182",
+					"action" : "unpack"
+				}
+			}
+		},
+		"neo4j" : {
+			"name" : "Neo4J Community Edition - External Link",
+			"description" : "Graph Database",
+			"version" : "3.1.1",
+			"platforms" : {
+				"osx64" : {
+					"url" : "https:\/\/neo4j.com\/artifact.php?name=neo4j-community-3.1.1-unix.tar.gz",
+					"filename" : "neo4j-community-3.1.1-unix.tar.gz",
+					"md5sum" : "7449e5b5436df48feffa85f4f5a75c5d",
+					"action" : "unpack"
+				},
+				"linux64" : {
+					"url" : "https:\/\/neo4j.com\/artifact.php?name=neo4j-community-3.1.1-unix.tar.gz",
+					"filename" : "neo4j-community-3.1.1-unix.tar.gz",
+					"md5sum" : "7449e5b5436df48feffa85f4f5a75c5d",
+					"action" : "unpack"
+				},
+				"windows32" : {
+					"url" : "https:\/\/neo4j.com\/artifact.php?name=neo4j-community-3.1.1-windows.zip",
+					"filename" : "neo4j-community-3.1.1-windows.zip",
+					"md5sum" : "290a82142c91e853c70885cc3247bab4",
+					"action" : "unpack"
+				},
+				"windows64" : {
+					"url" : "https:\/\/neo4j.com\/artifact.php?name=neo4j-community-3.1.1-windows.zip",
+					"filename" : "neo4j-community-3.1.1-windows.zip",
+					"md5sum" : "290a82142c91e853c70885cc3247bab4",
+					"action" : "unpack"
+				}
+			}
+		}
+	}
+}
