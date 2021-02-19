@@ -76,9 +76,9 @@
 					"action" : "launch"
 				},
 				"osx64" : {
-					"url" : "https://github.com/etiennebrosse/SofteamRD/releases/download/3.8.00/modelio-open-source-3.8.0-macosx.cocoa.x86_64.tar.gz",
-					"filename" : "modelio-open-source-3.8.0-macosx.cocoa.x86_64.tar.gz",
-					"md5sum" : "9a08ba26f2f930b72050ec72deff0378",
+					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.MacOS.X.tar.gz",
+					"filename" : "Modelio-Open-Source-4.1.0-macosx.cocoa.x86_64.tar.gz",
+					"md5sum" : "476993a342715480f738426ed82e0020",
 					"action" : "unpack"
 				}
 			}
