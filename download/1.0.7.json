@@ -60,31 +60,19 @@
 		},
 		"modelio" : {
 			"name" : "Modelio",
-			"version" : "3.8.OO",
+			"version" : "4.1.O",
 			"description" : "UML\/BPMN modelling tool",
 			"platforms" : {
-				"linux32" : {
-					"url" : "https:\/\/github.com\/etiennebrosse\/SofteamRD\/releases\/download\/3.8.00\/modelio-open-source3.8_3.8.0_i386.deb",
-					"filename" : "modelio-open-source3.8_3.8.0_i386.deb",
-					"md5sum" : "6228745d56339d1063f6ab7aef8d40a4",
-					"action" : "launch"
-				},
 				"linux64" : {
-					"url" : "https:\/\/github.com\/etiennebrosse\/SofteamRD\/releases\/download\/3.8.00\/modelio-open-source3.8_3.8.0_amd64.deb",
-					"filename" : "modelio-open-source3.8_3.8.0_amd64.deb",
-					"md5sum" : "b1574d7e511cef2e861dc7ec2201a432",
-					"action" : "launch"
-				},
-				"windows32" : {
-					"url" : "https:\/\/github.com\/etiennebrosse\/SofteamRD\/releases\/download\/3.8.00\/Modelio.Open.Source.3.8.0.-.32.exe",
-					"filename" : "Modelio.Open.Source.3.8.0.-.32.exe",
-					"md5sum" : "32077257bfd9f2ec12bcdefaa05c08d3",
-					"action" : "launch"
+					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.Linux.tar.gz",
+					"filename" : "Modelio-Open-Source_4-1-0.tar.gz",
+					"md5sum" : "3c589b1c6ed354f0ea016a10c82c53a6",
+					"action" : "unpack"
 				},
 				"windows64" : {
-					"url" : "https:\/\/github.com\/etiennebrosse\/SofteamRD\/releases\/download\/3.8.00\/Modelio.Open.Source.3.8.0.-.64.exe",
-					"filename" : "Modelio.Open.Source.3.8.0.-.64.exe",
-					"md5sum" : "d403f7df7c1d9ebbc0d7d664ec7063e4",
+					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.Windows.exe",
+					"filename" : "Modelio.Open.Source.4.1.0.-.64.exe",
+					"md5sum" : "d41d8cd98f00b204e9800998ecf8427e",
 					"action" : "launch"
 				},
 				"osx64" : {
@@ -97,13 +85,13 @@
 		},
 		"modelio-intocps" : {
 			"name" : "Modelio INTO-CPS extension",
-			"version" : "1.5.00",
+			"version" : "1.6.00",
 			"description" : "Modelio extension for INTO-CPS profile",
 			"platforms" : {
 				"any" : {
-					"url" : "https:\/\/github.com\/etiennebrosse\/SofteamRD\/releases\/download\/1.5.00\/INTOCPS_1.5.00.jmdac",
-					"filename" : "INTOCPS_1.5.00.jmdac",
-					"md5sum" : "3a85d03b92dbc80e163d4c4cc838d426",
+					"url" : "http://forge.modelio.org/attachments/download/23862/INTOCPS_1.6.00.jmdac",
+					"filename" : "INTOCPS_1.6.00.jmdac",
+					"md5sum" : "7c80711a5d3f0ec8ee787eb3444bd7f2",
 					"action" : "show"
 				}
 			}
