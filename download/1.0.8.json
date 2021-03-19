@@ -72,7 +72,7 @@
 				"windows64" : {
 					"url" : "https:\/\/github.com\/ModelioOpenSource\/Modelio\/releases\/download\/v4.1.0\/Modelio.4.1.0.-.Windows.exe",
 					"filename" : "Modelio.Open.Source.4.1.0.-.64.exe",
-					"md5sum" : "d41d8cd98f00b204e9800998ecf8427e",
+					"md5sum" : "c2d9bc071826dee64529ffbc8b95c542",
 					"action" : "launch"
 				},
 				"osx64" : {
