@@ -21,6 +21,6 @@ with open(args.path) as jdata:
 	keys =  data.keys()
 	keys.sort(key=StrictVersion)
 	print keys
-        returnCode = call(["python", "create-usb.py","--url","file:"+data[keys[-1]]])
+        returnCode = call(["python2", "create-usb.py","--url","file:"+data[keys[-1]]])
         sys.exit(returnCode)
         
